@@ -1,4 +1,4 @@
-HR_Data_Analysis_Project
+# HR_Data_Analysis_Project
 
 In this project, I honed my skills in utilizing advanced Power BI functions to unlock the secrets of HR data. By presenting these insights in captivating and dynamic dashboards, I empowered organizational leaders to make strategic decisions that optimize HR processes and drive success.
 ​
